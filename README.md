@@ -4,6 +4,17 @@
 
 *A geometric alternative to ΛCDM where spacetime thickness variations drive cosmic acceleration*
 
+## ✨ Key Features  
+|   |   |
+|---|---|
+| 🌀 **5D Geometry** | Variable thickness `h(r) = h₀(1-r/R) + ℓₚ` |
+| ⚡ **Dark Energy** | Emerges from M-A repulsion in 5D: `F₅ᴅ ∼ G₁/h²` |
+| 🔄 **Antimatter Universe** | Modified constants: `c_A ≈ 31.6c`, `G_A ≈ 0.01G` |
+| 📊 **Falsifiable** | Predicts Hubble anisotropy `ΔH/H ∼ 10⁻⁵` |
+
+## ❓ FAQ  
+**Q: Why doesn't M-A annihilate?**  
+A: Separation in 5D (Δy ∼ h(r)) prevents 4D contact.
 ---
 
 ## 🌌 Core Hypothesis
