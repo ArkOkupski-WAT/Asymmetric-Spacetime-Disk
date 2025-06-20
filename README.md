@@ -4,6 +4,10 @@
 
 *A geometric alternative to ΛCDM where spacetime thickness variations drive cosmic acceleration*
 
+## 📜 Full Manuscript
+[![PDF Preview](https://img.shields.io/badge/Download-PDF-%23B30B1B?style=flat&logo=adobeacrobatreader)](https://github.com/ArkOkupski-WAT/Asymmetric-Spacetime-Disk/raw/main/Asymmetric_Spacetime_Disk.pdf)  
+*Official v1.0 of the theory (DOI: [10.5281/zenodo.15707473](https://doi.org/10.5281/zenodo.15707473))*
+
 ## ✨ Key Features  
 |   |   |
 |---|---|
